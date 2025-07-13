@@ -1,21 +1,21 @@
 ## 👋 Heyo, I'm Dalton!
 
-I'm a software developer with nearly 5 years of experience, passionate about building clean, efficient, and maintainable applications. I enjoy working across the stack—from UI design to API development and database design.
+I'm a software developer with nearly 5 years of experience. I'm passionate in building clean, efficient, and maintainable applications. My work spans across the entire application stack from UI design and development to API design and development.
 
 ---
 
-### 🧠 A bit about me
+### 🧠 About me
 
 - 🔭 I’m currently working part-time at a software company where I’m building a full-stack application from scratch:
   - Designing and developing the frontend (SvelteKit + TailwindCSS)
-  - Building and documenting the backend API
-  - Managing the database layer
-  - Implementing an authentication system
-- 📚 I'm about to begin university (pending acceptance) to study **AI/Data Science**
-- 🌱 I'm currently exploring more advanced topics in cloud architecture, authentication, and data engineering
+  - Designing, developing, & documenting the API
+  - Designing and developing pieces of the database
+  - Implementing an authentication & authorization system
+- 📚 Pending approval, I'm about to begin studies in **AI/Data Science**
+- 🌱 I'm currently exploring authentication & authorization systems, ways to implement AI, and data science topics
 - 💬 Ask me about full-stack development, SvelteKit, TypeScript, or working with cloud services
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daltonblake05/)
-- ⚡ Fun fact: I enjoy learning new languages and reading philosophy when I’m not writing code 
+- ⚡ Fun fact: I enjoy learning new languages and reading philosophy
 
 ---
 
@@ -43,4 +43,4 @@ Jira, monday.com
 
 ---
 
-I'm always open to learning new things and collaborating on interesting projects. Feel free to reach out or check out what I’m working on!
+I'm always open to learning new things and making new connections. Feel free to connect with me on LinkedIn or check out what I’m working on!
