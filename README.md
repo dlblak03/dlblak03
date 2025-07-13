@@ -13,7 +13,6 @@ I'm a software developer with nearly 5 years of experience. I'm passionate in bu
   - Implementing an authentication & authorization system
 - 📚 Pending approval, I'm about to begin studies in **AI/Data Science**
 - 🌱 I'm currently exploring authentication & authorization systems, ways to implement AI, and data science topics
-- 💬 Ask me about full-stack development, SvelteKit, TypeScript, or working with cloud services
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daltonblake05/)
 - ⚡ Fun fact: I enjoy learning new languages and reading philosophy
 
