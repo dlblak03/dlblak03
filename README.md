@@ -1,4 +1,4 @@
-## 👋 Heyo, I'm Dalton!
+## Heyo 👋
 
 Software Engineer specializing in Frontend development and Cloud Architecture. I've worked primarily in the Healthcare & Pharmaceutical industries in the United States and I'm passionate about AWS and SvelteKit. 
 
