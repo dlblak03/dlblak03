@@ -4,4 +4,4 @@ Software Engineer specializing in Frontend development and Cloud Architecture. E
 
 In 2024, I migrated to Germany. I'm now pursuing a Master of Science in Artificial Intelligence and Data Science at the Heinrich-Heine-Universität in Düsseldorf.
 
-I'm committed to continuous improvement, learning, and solving complex challenges to drive innovation.
+I'm committed to continuous improvement, learning, and solving complex challenges.
