@@ -1,3 +1,3 @@
 ## Heyo 👋
 
-Software Engineer specializing in frontend development and cloud architecture. Experienced in the healthcare industry. Passionate about AWS and SvelteKit.
+Software Engineer with 4+ years of experience. Experienced in building products from zero to one. Passionate about AWS and SvelteKit.
